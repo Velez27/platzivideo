@@ -20,7 +20,7 @@ const CarouselItem = () => (
         />
         <img
           className='carousel-item__details--img'
-          src={playIcon}
+          src={plusIcon}
           alt='Plus Icon'
         />
       </div>

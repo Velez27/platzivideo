@@ -33,8 +33,6 @@ const App = () => (
       <Carousel>
         <CarouselItem />
         <CarouselItem />
-        
-        
       </Carousel>
     </Categories>
     <Footer />
